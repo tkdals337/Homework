@@ -4,4 +4,5 @@ int main(void) {
 
     print("Fuck");
     print("you");
+    print("shit");
 }
